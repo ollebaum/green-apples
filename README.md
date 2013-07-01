@@ -1,6 +1,6 @@
-# Small utility applescripts for day-to-day use
+## Basic applescripts for day-to-day use
 
-## Setup
+### Setup
 The scripts are in binary form, so in order to only diff the textual parts of the scripts perfom the following command in the repository,
 
 ```
